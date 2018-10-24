@@ -1,0 +1,21 @@
+{
+    "embeds": [
+            { 
+            "title" : "<<<{{Title}}>>>", 
+            "description" : "<<<{{Content}}>>>", 
+            "url" : "<<<{{PostURL}}>>>",
+            "timestamp": "<<<{{PostedAt}}>>>",
+            "color": 2519592,
+            "thumbnail": { 
+                "url": "{{ImageURL}}"
+            },
+            "footer": {
+                "text": "powered by /r/sysadmin's community",
+                "icon_url": "https://cdn.freebiesupply.com/logos/large/2x/reddit-2-logo-png-transparent.png"
+            },
+            "author": { 
+                "name" : "<<<{{Author}}>>>"
+            }
+            }
+        ]
+}

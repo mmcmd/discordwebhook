@@ -1,2 +1,2 @@
 # discordwebhook
-Posts hot topics from /r/sysadmin into a discord channel using IFTTT
+Some json files that with the help of IFTTT post in some discord channels hot posts from various subreddits.

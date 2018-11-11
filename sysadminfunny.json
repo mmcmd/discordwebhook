@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 { 
 "embeds": [ 
     { 
@@ -13,23 +12,4 @@
         } 
     }
     ]
-=======
-{
-    "embeds": [
-            { 
-            "title" : "<<<{{Title}}>>>", 
-            "description" : "<<<{{Content}}>>>", 
-            "url" : "<<<{{PostURL}}>>>",
-            "image": {"url": "ImageURL"},
-            "color": 22503,
-            "footer": {
-                "text": "posted on /r/sysadminhumor • on <<<{{PostedAt}}>>>",
-                "icon_url": "https://cdn.freebiesupply.com/logos/large/2x/reddit-2-logo-png-transparent.png"
-            },
-            "author": { 
-                "name" : "/u/<<<{{Author}}>>>"
-            }
-            }
-        ]
->>>>>>> 9224b7e3663810b30484ac96ec361ed3e8372885
 }

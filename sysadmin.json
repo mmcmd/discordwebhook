@@ -6,7 +6,7 @@
             "url" : "<<<{{PostURL}}>>>",
             "color": 2519592,
             "footer": {
-                "text": "powered by {{Sureddit}}'s community • <<<{{PostedAt}}>>>",
+                "text": "powered by {{Subreddit}}'s community • <<<{{PostedAt}}>>>",
                 "icon_url": "https://cdn.freebiesupply.com/logos/large/2x/reddit-2-logo-png-transparent.png"
             },
             "author": { 

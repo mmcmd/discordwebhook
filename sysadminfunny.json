@@ -10,6 +10,6 @@
             "text": "posted on {{Subreddit}} • on <<<{{PostedAt}}>>> • by /u/<<<{{Author}}>>>", 
             "icon_url": "https://cdn.freebiesupply.com/logos/large/2x/reddit-2-logo-png-transparent.png" 
         } 
-    } 
+    }
     ]
 }

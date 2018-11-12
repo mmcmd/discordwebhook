@@ -1,0 +1,14 @@
+{ 
+"embeds": [ 
+    { 
+        "title" : "<<<{{EntryTitle}}>>>", 
+        "description" : "<<<{{EntryContent}}>>>", 
+        "url" : "<<<{{EntryUrl}}>>>", 
+        "image": {"url": "{{EntryImageUrl}}"}, 
+        "color": 22503, 
+        "footer": { 
+            "text": "posted <<<{{EntryPublished}}>>>"
+        } 
+    } 
+    ] 
+}
